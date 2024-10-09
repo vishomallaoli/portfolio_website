@@ -56,5 +56,3 @@ To run the project locally:
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-To render the icons correctly in markdown, the badges use **shields.io** URLs. Let me know if you need any additional changes!
