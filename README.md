@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" alt="Firebase"/>
   <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square" alt="Vercel"/>
 </p>
+
 # Visho Malla Oli - Portfolio
 
 This is the personal portfolio website of **Visho Malla Oli**, showcasing my projects, skills, and professional experiences. The website is designed to highlight my expertise in AI, full-stack web development, and modern technologies.
