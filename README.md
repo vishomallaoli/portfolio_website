@@ -22,17 +22,7 @@ The portfolio showcases my work across AI-powered projects, web development, and
 - **Styling**: Implemented with **Tailwind CSS** for a modern and responsive UI.
 - **AI Integration**: Showcases my experience working with AI tools, particularly **OpenAI**.
 - **Backend Services**: Integrated with **Firebase** for data storage and authentication.
-
-## 🛠️ Technologies Used
-
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-- ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square)
-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
-- ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
-
+  
 ## ⚙️ Deployment
 
 This website is deployed on **Vercel**, leveraging its fast and efficient deployment capabilities for server-side rendered applications. The site ensures excellent performance and accessibility across regions.
