@@ -46,13 +46,23 @@ const Projects = () => {
                                 {project.description}
                             </p>
 
-                            <a href={project.link}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="bg-white text-stone-900 rounded-full py-2 px-2 w-32
-                                text-sm hover:bg-gray-100 text-center">
+                            <div className="flex space-x-4">
+                                <a href={project.link}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className={`bg-white text-stone-900 rounded-full py-2 px-2 text-sm hover:bg-gray-100 text-center ${project.liveDemo ? 'w-full flex-grow' : 'w-32'}`}>
                                     View on Github
-                            </a>
+                                </a>
+
+                                {project.liveDemo && (
+                                    <a href={project.liveDemo}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="bg-white text-stone-900 rounded-full py-2 px-2 w-full text-sm hover:bg-gray-100 text-center flex-grow">
+                                        Live Demo
+                                    </a>
+                                )}
+                            </div>
                         </div>
                     </div>
                 </motion.div>

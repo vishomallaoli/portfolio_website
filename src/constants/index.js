@@ -1,9 +1,9 @@
-import projects1 from "../assets/projects1.webp";
-import projects2 from "../assets/projects2.webp";
-import projects3 from "../assets/projects3.webp";
-import projects4 from "../assets/projects4.webp";
-import projects5 from "../assets/projects5.webp";
-import projects6 from "../assets/projects6.webp";
+import projects1 from "../assets/diadetect.jpeg";
+import projects2 from "../assets/contra.webp";
+import projects3 from "../assets/cancer.png";
+import projects4 from "../assets/event-master.png";
+import projects5 from "../assets/gitbot.png";
+import projects6 from "../assets/biga.png";
 
 import person1 from "../assets/person1.webp";
 import person2 from "../assets/person2.webp";
@@ -23,89 +23,175 @@ export const LINKS = [
 export const HERO_CONTENT = {
   greeting: "Hey there! 🖐️",
   introduction:
-    "I’m Visho, a creative frontend developer, crafting immersive and intuitive web experiences.",
+    "I’m Visho, an AI Software Engineer, creating innovative and impactful software solutions.",
   description:
-    "I’m currently helping businesses bring their visions to life through interactive digital solutions.",
+    "I’m currently working on AI SaaS platforms to bring business ideas to life through innovative digital experiences.",
   resumeLinkText: "Download Resume",
   resumeLink: "/resume.pdf",
 };
 
 export const PROJECTS = [
+  // {
+  //   name: "Streamerzz",
+  //   description: "Live stream management tool for content creators",
+  //   image: projects1,
+  //   link: "https://github.com/your-github/streamerzz",
+  // },
+
   {
-    name: "Streamerzz",
-    description: "Live stream management tool for content creators",
-    image: projects1,
-    link: "https://github.com/your-github/streamerzz",
+    name: "DiaDetect",
+    description: "A ML-based classifier for predicting diabetes, designed to aid in early detection and healthcare decision-making.",
+    image: projects1, // Replace with the appropriate image variable
+    link: "https://github.com/your-github/dia-detect",
+    liveDemo: "https://render-dia-detect.onrender.com", // Live demo link
   },
+
+  // {
+  //   name: "NutriTrack",
+  //   description: "Track your meals and calories with smart AI suggestions",
+  //   image: projects2,
+  //   link: "https://github.com/your-github/nutritrack",
+  // },
+
   {
-    name: "NutriTrack",
-    description: "Track your meals and calories with smart AI suggestions",
-    image: projects2,
-    link: "https://github.com/your-github/nutritrack",
+    name: "ContraAI",
+    description: "ContraAI is an AI-driven SaaS platform for real-time legal contract analysis. It enables users to upload contracts, get detailed insights, ask questions, and manage contracts with ease",
+    image: projects2, 
+    link: "https://github.com/fiston-user/contract-analysis",
+    liveDemo: "https://www.simplemetrics.app", // Live demo link
   },
+  // {
+  //   name: "HairRevive",
+  //   description: "A platform for hair regrowth solutions powered by science",
+  //   image: projects3,
+  //   link: "https://github.com/your-github/hairrevive",
+  // },
+
+
+  // {
+  //   name: "DevDeck",
+  //   description:
+  //     "Interactive dashboard for developers to track coding activity",
+  //   image: projects4,
+  //   link: "https://github.com/your-github/devdeck",
+  // },
   {
-    name: "HairRevive",
-    description: "A platform for hair regrowth solutions powered by science",
+    name: "BeatCancer",
+    description: "An AI-powered assistant for personalized cancer care. It analyzes patient data, medical guidelines, and records to identify screening gaps and create tailored treatment plans aimed at improving patient outcomes.",
     image: projects3,
-    link: "https://github.com/your-github/hairrevive",
+    link: "https://github.com/vishomallaoli/beatCancer",
   },
+
   {
-    name: "DevDeck",
-    description:
-      "Interactive dashboard for developers to track coding activity",
-    image: projects4,
-    link: "https://github.com/your-github/devdeck",
+    name: "Eventmaster",
+    description: "A comprehensive event management tool that simplifies planning, attendee tracking, and scheduling, built to streamline event organization.",
+    image: projects4, 
+    link: "https://github.com/vishomallaoli/event-master"
   },
+  // {
+  //   name: "FitConnect",
+  //   description: "Fitness social network to connect athletes and trainers",
+  //   image: projects5,
+  //   link: "https://github.com/your-github/fitconnect",
+  // },
+
   {
-    name: "FitConnect",
-    description: "Fitness social network to connect athletes and trainers",
-    image: projects5,
-    link: "https://github.com/your-github/fitconnect",
+    name: "GitHub Bot",
+    description: "An automated bot that interacts with GitHub repositories, performing tasks like issue management, pull request monitoring, and notifications.",
+    image: projects5, 
+    link: "https://github.com/vishomallaoli/github-bot"
   },
+  // {
+  //   name: "WellNest",
+  //   description: "A wellness app for mental and physical health improvement",
+  //   image: projects6,
+  //   link: "https://github.com/your-github/wellnest",
+  // },
   {
-    name: "WellNest",
-    description: "A wellness app for mental and physical health improvement",
+    name: "Binary Image Growing Algorithm",
+    description: "A Java application for binary PGM image segmentation, utilizing an 8-connected neighborhood algorithm to detect and grow regions based on pixel intensity values.",
     image: projects6,
-    link: "https://github.com/your-github/wellnest",
+    link: "https://github.com/vishomallaoli/binary-image-growing-algorithm",
   },
 ];
 
+// export const ABOUT_CONTENT = {
+//   paragraphs: [
+//     "I am a dedicated frontend developer with a passion for building modern web applications that are both functional and aesthetically pleasing. Over the years, I have worked on numerous projects ranging from single-page applications to complex multi-tiered systems, always ensuring high performance and seamless user experiences.",
+//     "I specialize in using technologies like React, Next.js, and Tailwind CSS to create responsive and scalable interfaces. My focus is on writing clean, maintainable code while collaborating with cross-functional teams to deliver projects that meet both business goals and user needs. I thrive in environments that challenge me to continuously learn and grow.",
+//   ],
+// };
+
 export const ABOUT_CONTENT = {
   paragraphs: [
-    "I am a dedicated frontend developer with a passion for building modern web applications that are both functional and aesthetically pleasing. Over the years, I have worked on numerous projects ranging from single-page applications to complex multi-tiered systems, always ensuring high performance and seamless user experiences.",
-    "I specialize in using technologies like React, Next.js, and Tailwind CSS to create responsive and scalable interfaces. My focus is on writing clean, maintainable code while collaborating with cross-functional teams to deliver projects that meet both business goals and user needs. I thrive in environments that challenge me to continuously learn and grow.",
+    "I am an AI software engineer driven by the challenge of building smart, data-driven solutions that bring ideas to life. With a focus on scalable applications and AI integration, I create efficient, user-friendly platforms that solve complex problems while delivering seamless user experiences.",
+    "I specialize in using Next.js, React, and Tailwind CSS to create responsive, scalable applications. I also integrate AI tools like OpenAI and Langchain to build intelligent systems. My focus is on writing clean code and collaborating with teams to deliver solutions that meet both business goals and user needs.",
   ],
 };
 
+// export const EXPERIENCES = [
+//   {
+//     yearRange: "2023 — Now",
+//     title: "Senior Frontend Engineer at TechCorp",
+//     location: "Paris, France",
+//     description: [
+//       "Leading the development of scalable frontend architecture for enterprise-level applications.",
+//       "Collaborating with cross-functional teams to deliver high-quality, user-centric solutions.",
+//       "Driving innovation through continuous improvements in performance and UI/UX design.",
+//     ],
+//   },
+//   {
+//     yearRange: "2021 — 2023",
+//     title: "Frontend Engineer at Startup Inc.",
+//     location: "Remote",
+//     description: [
+//       "Built dynamic, responsive, and accessible web applications using React, Next.js, and Tailwind CSS.",
+//       "Spearheaded frontend optimization efforts, resulting in a 40% performance boost.",
+//       "Mentored junior developers and led internal frontend workshops.",
+//     ],
+//   },
+//   {
+//     yearRange: "2018 — 2021",
+//     title: "Frontend Developer at Creative Solutions",
+//     location: "London, UK",
+//     description: [
+//       "Developed and maintained user interfaces for high-traffic websites.",
+//       "Worked closely with designers to implement pixel-perfect designs.",
+//       "Optimized websites for SEO and performance, resulting in a 30% increase in traffic.",
+//     ],
+//   },
+// ];
+
 export const EXPERIENCES = [
   {
-    yearRange: "2023 — Now",
-    title: "Senior Frontend Engineer at TechCorp",
-    location: "Paris, France",
-    description: [
-      "Leading the development of scalable frontend architecture for enterprise-level applications.",
-      "Collaborating with cross-functional teams to deliver high-quality, user-centric solutions.",
-      "Driving innovation through continuous improvements in performance and UI/UX design.",
-    ],
-  },
-  {
-    yearRange: "2021 — 2023",
-    title: "Frontend Engineer at Startup Inc.",
+    yearRange: "Oct, 2024 - Now",
+    title: "Machine Learning Engineer at Fellowship.AI",
     location: "Remote",
     description: [
-      "Built dynamic, responsive, and accessible web applications using React, Next.js, and Tailwind CSS.",
-      "Spearheaded frontend optimization efforts, resulting in a 40% performance boost.",
-      "Mentored junior developers and led internal frontend workshops.",
+      "Collaborating on machine learning projects, building scalable AI models using DL/RL.",
+      "Pair programming with fellows and mentors to deliver production-ready AI solutions.",
+      "Contributing to commercial AI applications for partner companies on real-world challenges.",
+    ],
+  },
+  
+  {
+    yearRange: "Aug, 2024 — Now",
+    title: "Teaching Assistant at Ole Miss",
+    location: "Oxford, MS",
+    description: [
+      "Led labs for Python & Java, focusing on algorithm optimization and data structures.",
+      "Collaborated with professors and students to ensure academic success.",
+      "Proctored exams and contributed to the development of grading rubrics for assignments.",
     ],
   },
   {
-    yearRange: "2018 — 2021",
-    title: "Frontend Developer at Creative Solutions",
-    location: "London, UK",
+    yearRange: "June, 2024 - Aug, 2024",
+    title: "Software Engineering Fellow at Headstarter AI",
+    location: "Remote",
     description: [
-      "Developed and maintained user interfaces for high-traffic websites.",
-      "Worked closely with designers to implement pixel-perfect designs.",
-      "Optimized websites for SEO and performance, resulting in a 30% increase in traffic.",
+      "Worked on a team, integrating OpenAI and Firebase to build AI-driven web applications.",
+      "Collaborated with back-end engineers to ensure seamless AI integration into the web platform.",
+      "Optimized AI functionality to improve responsiveness and scalability across the application.",
     ],
   },
 ];
