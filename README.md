@@ -38,12 +38,16 @@ To run the project locally:
 
 2. Install dependencies:
 
-```npm install```
+    ```bash
+    npm install
+    ```
 
 
 3. Start the development server:
 
-```npm run dev```
+    ```bash
+    npm run dev
+    ```
 
 
 4. Visit http://localhost:3000 to view the site locally.
