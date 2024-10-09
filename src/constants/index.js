@@ -5,10 +5,10 @@ import projects4 from "../assets/event-master.png";
 import projects5 from "../assets/gitbot.png";
 import projects6 from "../assets/biga.png";
 
-import person1 from "../assets/person1.webp";
-import person2 from "../assets/person2.webp";
-import person3 from "../assets/person3.webp";
-import person4 from "../assets/person4.webp";
+import person1 from "../assets/earnest.JPG";
+import person2 from "../assets/ishan.JPG";
+import person3 from "../assets/shrestha.jpeg";
+import person4 from "../assets/sandip.jpg";
 import person5 from "../assets/person5.webp";
 import person6 from "../assets/person6.webp";
 
@@ -197,44 +197,51 @@ export const EXPERIENCES = [
 ];
 
 export const TESTIMONIALS = [
+  // {
+  //   name: "Sarah Johnson",
+  //   title: "Frontend Engineer, Google",
+  //   feedback:
+  //     "Visho is one of the most talented developers I've had the pleasure of working with. His skills in frontend development are unparalleled, and his ability to solve complex problems with ease is truly impressive. His leadership and communication make him a standout developer in any team.",
+  //   image: person1,
+  // },
   {
-    name: "Sarah Johnson",
-    title: "Frontend Engineer, Google",
+    name: "Earnest James",
+    title: "DevOps Engineer, CSpire",
     feedback:
-      "Visho is one of the most talented developers I've had the pleasure of working with. His skills in frontend development are unparalleled, and his ability to solve complex problems with ease is truly impressive. His leadership and communication make him a standout developer in any team.",
+      "I competed against Visho at HackOleMiss, where he played a pivotal role in leading his team to victory with a cutting-edge fake news detection project. His skills in AI model development are unparalleled, and his leadership and deep technical knowledge were clearly evident throughout the competition. Visho’s ability to stay sharp and focused, even under intense pressure, sets him apart as an exceptional developer.”",
     image: person1,
   },
   {
-    name: "Michael Anderson",
-    title: "Product Manager, Facebook",
+    name: "Ishan Pathak",
+    title: "CompSci Student, Ole Miss",
     feedback:
-      "Visho was instrumental in driving our product forward. His keen eye for detail and ability to work cross-functionally made him an invaluable asset. He consistently delivers top-quality work and elevates the projects he's involved in. He’s a natural leader, and his expertise in frontend technologies is outstanding.",
+      "I had the opportunity to share several classes with Visho, and his expertise in AI/ML and Data Analytics was impressive. What stood out to me the most was how quickly he picked up full-stack development. Despite starting later than many of us, he managed to complete numerous projects like SaaS AI Platform in a short time. His drive and focus during those sprints remind me of a rabbit in full motion.",
     image: person2,
   },
   {
-    name: "Emily Davis",
-    title: "Lead Designer, Amazon",
+    name: "Rishabh Shrestha",
+    title: "Full-Stack Engineer, CSA",
     feedback:
-      "Working with Visho has been a phenomenal experience. His deep understanding of both design and development allowed us to push the boundaries of what we could achieve. His creative problem-solving abilities and commitment to quality are second to none.",
+      "What impresses me most about Visho is his preparedness. While I was pursuing my master’s, I saw him, as a sophomore, already having his LinkedIn profile and resume well-prepared. He strikes me as someone who can achieve anything, moving forward with a slow but steady determination. Beyond his technical skills and classroom achievements, it’s his ability to connect with people that truly stands out.",
     image: person3,
   },
   {
-    name: "David Lee",
-    title: "Senior Developer, Microsoft",
+    name: "Sandip Rai",
+    title: "Former President, NEPSA",
     feedback:
-      "Visho's contribution to our team was nothing short of amazing. His technical knowledge, combined with his passion for creating user-friendly and scalable applications, made a significant impact on the success of our product. He’s always willing to go the extra mile to ensure the best outcome.",
+      "Visho served as the MC for Nepali Nights in 2023, where he showcased exceptional leadership, communication, and stage management skills. His humor and charisma kept an audience of over 100 people entertained throughout the event. Whatever project he takes on, Visho always proves to be a people’s person, connecting effortlessly with those around him.",
     image: person4,
   },
   {
     name: "Laura Martinez",
-    title: "CTO, Shopify",
+    title: "Software Engineer, Shopify",
     feedback:
       "Visho brought a level of expertise and professionalism to our team that was greatly appreciated. His focus on scalability and clean code ensured that our platform could handle large traffic loads without compromising performance. His work ethic and collaboration skills are impeccable.",
     image: person5,
   },
   {
     name: "Chris Brown",
-    title: "Co-founder, Stripe",
+    title: "Software Engineer, Stripe",
     feedback:
       "Visho combines technical proficiency with excellent leadership skills. He was a key part of our success, helping us build a robust and scalable product. His attention to detail and ability to manage teams made him an invaluable part of the company.",
     image: person6,
