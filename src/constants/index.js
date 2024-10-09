@@ -42,7 +42,7 @@ export const PROJECTS = [
     name: "DiaDetect",
     description: "A ML-based classifier for predicting diabetes, designed to aid in early detection and healthcare decision-making.",
     image: projects1, // Replace with the appropriate image variable
-    link: "https://github.com/your-github/dia-detect",
+    link: "https://github.com/vishomallaoli/dia-detect",
     liveDemo: "https://render-dia-detect.onrender.com", // Live demo link
   },
 
