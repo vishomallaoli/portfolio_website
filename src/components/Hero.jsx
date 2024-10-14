@@ -1,6 +1,6 @@
 import { motion } from "framer-motion"
 import { HERO_CONTENT } from "../constants"
-import visho from "../assets/IMG_0874.jpeg";
+import visho from "../assets/visho.jpg"; // change main photo 'visho's'
 
 const textVariants = {
     hidden: { opacity: 0, y: 50},
@@ -69,8 +69,8 @@ const Hero = () => {
                 initial="hidden"
                 animate="visible"
                 variants={imageVariants}>
-                    <img src={visho} alt="Jason Root" width={650} height={650}
-                    className="rounded-lg shadow-lg" />
+                    <img src={visho} alt="Visho Malla Oli" width={650} height={650}
+                    className="rounded-3xl shadow-lg" />
             </motion.div>
         </div>
     </section>
