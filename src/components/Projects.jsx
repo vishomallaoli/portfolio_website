@@ -42,7 +42,7 @@ const Projects = () => {
                             {project.name}
                         </h2>
                         <div className="flex flex-col justify-between">
-                            <p className="mb-4 flex-grow text-2xl">
+                            <p className="mb-4 flex-grow text-xl">
                                 {project.description}
                             </p>
 
