@@ -27,7 +27,7 @@ export const HERO_CONTENT = {
   description:
     "I’m currently working on AI SaaS platforms to bring business ideas to life through innovative digital experiences.",
   resumeLinkText: "Download Resume",
-  resumeLink: "/resume.pdf",
+  resumeLink: "/swe-resume.pdf",
 };
 
 export const PROJECTS = [
