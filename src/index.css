@@ -41,3 +41,8 @@ body .calendly-badge-widget iframe {
 body .chatbot-widget iframe {
   z-index: 1000 !important;
 }
+
+/* Ensure the gradients works properly */
+svg {
+  -webkit-mask-image: none;
+}
