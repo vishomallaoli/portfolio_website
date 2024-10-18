@@ -12,6 +12,8 @@ import person4 from "../assets/sandip.jpg";
 import person5 from "../assets/person5.webp";
 import person6 from "../assets/person6.webp";
 
+
+
 export const LINKS = [
   { href: "#work", label: "Work" },
   { href: "#about", label: "About" },

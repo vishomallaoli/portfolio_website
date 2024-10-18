@@ -17,3 +17,27 @@
 #work, #about, #experience, #testinomials, #contact {
   scroll-margin-top: 80px;
 }
+
+/* Chatbot widget styling */
+.chatbot-widget {
+  position: fixed;
+  bottom: 100px; /* 100px from bottom for space between widgets */
+  right: 20px;
+  z-index: 1000;
+}
+
+/* Calendly badge widget styling */
+.calendly-badge-widget {
+  position: fixed;
+  bottom: 20px; /* Calendly at bottom */
+  right: 20px;
+  z-index: 999; /* Ensure chatbot is on top */
+}
+
+body .calendly-badge-widget iframe {
+  z-index: 999 !important;
+}
+
+body .chatbot-widget iframe {
+  z-index: 1000 !important;
+}
