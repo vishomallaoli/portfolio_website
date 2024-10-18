@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { motion } from "framer-motion";
 import { HERO_CONTENT } from "../constants"; // Import your constants
-import visho from "../assets/visho.jpg"; // Your existing image import
+import visho from "../assets/visho3.jpeg"; // Your existing image import
 
 const textVariants = {
   hidden: { opacity: 0, y: 50 },
