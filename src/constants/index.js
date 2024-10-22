@@ -1,6 +1,6 @@
 import projects1 from "../assets/diadetect.jpeg";
 import projects2 from "../assets/contra.webp";
-import projects3 from "../assets/cancer.png";
+import projects3 from "../assets/ecoguard3.webp";
 import projects4 from "../assets/event-master.png";
 import projects5 from "../assets/gitbot.png";
 import projects6 from "../assets/biga.png";
@@ -78,10 +78,11 @@ export const PROJECTS = [
   //   link: "https://github.com/your-github/devdeck",
   // },
   {
-    name: "BeatCancer",
-    description: "An AI-powered assistant for personalized cancer care. It analyzes patient data, medical guidelines, and records to identify screening gaps and create tailored treatment plans aimed at improving patient outcomes.",
+    name: "EcoGuard",
+    description: "An AI-powered waste management platform that streamlines reporting and collection, promoting sustainability and targeting 50+ users with eco-friendly incentives.",
     image: projects3,
-    link: "https://github.com/vishomallaoli/beatCancer",
+    link: "https://github.com/vishomallaoli/mol-iq-waste-mgmt",
+    liveDemo: "https://mol-iq-waste-mgmt.vercel.app/",
   },
 
   {
