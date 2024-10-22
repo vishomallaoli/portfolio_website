@@ -168,18 +168,18 @@ export const ABOUT_CONTENT = {
 export const EXPERIENCES = [
   {
     yearRange: "Oct, 2024 - Now",
-    title: "Machine Learning Engineer at Fellowship.AI",
+    title: "Machine Learning Engineer, Fellowship.AI",
     location: "Remote",
     description: [
-      "Collaborating on machine learning projects, building scalable AI models using DL/RL.",
-      "Pair programming with fellows and mentors to deliver production-ready AI solutions.",
-      "Contributing to commercial AI applications for partner companies on real-world challenges.",
+      "Develop web agents using LangChain, SeeAct, and WebLlama to autonomously browse financial websites and extract real-time interest rates.",
+      "Customize agents for dynamic data retrieval, error handling, and task optimization to ensure accuracy and adaptability.",
+      "Provide daily updates, participate in meetings, and collaborate with fellows and mentors to align on goals and resolve challenges.",
     ],
   },
   
   {
     yearRange: "Aug, 2024 — Now",
-    title: "Teaching Assistant at Ole Miss",
+    title: "Teaching Assistant - CSCI 111/211/256, Ole Miss",
     location: "Oxford, MS",
     description: [
       "Led labs for Python & Java, focusing on algorithm optimization and data structures.",
@@ -189,7 +189,7 @@ export const EXPERIENCES = [
   },
   {
     yearRange: "June, 2024 - Aug, 2024",
-    title: "Software Engineering Fellow at Headstarter AI",
+    title: "Software Engineering Fellow, Headstarter AI",
     location: "Remote",
     description: [
       "Worked on a team, integrating OpenAI and Firebase to build AI-driven web applications.",
