@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/vishomallaoli/portfolio_website/blob/main/src/assets/github_repo_banner.png?raw=true)](https://vishomallaoli.com)
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React"/>
