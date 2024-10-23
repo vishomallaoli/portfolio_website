@@ -15,11 +15,11 @@
   <a href="https://openai.com/" target="_blank">
     <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square" alt="OpenAI"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" alt="Firebase"/>
-  </a>
   <a href="https://vercel.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square" alt="Vercel"/>
+  </a>
+  <a href="https://marketingplatform.google.com/about/analytics/" target="_blank">
+    <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white&style=flat-square" alt="Google Analytics"/>
   </a>
 </p>
 
