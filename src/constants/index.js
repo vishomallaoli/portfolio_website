@@ -2,7 +2,7 @@ import projects1 from "../assets/diadetect.jpeg";
 import projects2 from "../assets/contra.webp";
 import projects3 from "../assets/ecoguard3.webp";
 import projects4 from "../assets/event-master.png";
-import projects5 from "../assets/gitbot.png";
+import projects5 from "../assets/ai-agent.webp";
 import projects6 from "../assets/biga.png";
 
 import person1 from "../assets/earnest.JPG";
@@ -98,11 +98,21 @@ export const PROJECTS = [
   //   link: "https://github.com/your-github/fitconnect",
   // },
 
+  // {
+  //   name: "GitHub Bot",
+  //   description: "An automated bot that interacts with GitHub repositories, performing tasks like issue management, pull request monitoring, and notifications.",
+  //   image: projects5, 
+  //   link: "https://github.com/vishomallaoli/github-bot"
+  // },
   {
-    name: "GitHub Bot",
-    description: "An automated bot that interacts with GitHub repositories, performing tasks like issue management, pull request monitoring, and notifications.",
-    image: projects5, 
-    link: "https://github.com/vishomallaoli/github-bot"
+    name: "LLMf Web Agent",
+    description: "(Ongoing) An AI-driven autonomous agent built to extract real-time financial data from websites, focusing on tasks like interest rate extraction using LangChain and WebLlama. Optimized for handling 50+ complex web scenarios.",
+    image: projects5,
+
+
+    // will release soon
+    // link: "https://github.com/vishomallaoli/llm-web-agent",
+    // liveDemo: "https://llm-web-agent.vercel.app/",
   },
   // {
   //   name: "WellNest",
