@@ -25,11 +25,11 @@ export const LINKS = [
 export const HERO_CONTENT = {
   greeting: "Hey there! 🖐️",
   introduction:
-    "I’m Visho, an AI Software Engineer, creating innovative and impactful software solutions.",
+    "I’m Visho, a Software Engineer (with Data Science emphasis), creating innovative and impactful software solutions.",
   description:
-    "I’m currently working on AI SaaS platforms to bring business ideas to life through innovative digital experiences.",
+    "I’m currently working a Operational Analyst to optimize manufacturing workflows to bridge engineering with business solutions.",
   resumeLinkText: "Download Resume",
-  resumeLink: "/SWEresume.pdf",
+  resumeLink: "/SWEresume2.pdf",
 };
 
 export const PROJECTS = [
@@ -137,8 +137,8 @@ export const PROJECTS = [
 
 export const ABOUT_CONTENT = {
   paragraphs: [
-    "I am an AI software engineer driven by the challenge of building smart, data-driven solutions that bring ideas to life. With a focus on scalable applications and AI integration, I create efficient, user-friendly platforms that solve complex problems while delivering seamless user experiences.",
-    "I specialize in using Next.js, React, and Tailwind CSS to create responsive, scalable applications. I also integrate AI tools like OpenAI and Langchain to build intelligent systems. My focus is on writing clean code and collaborating with teams to deliver solutions that meet both business goals and user needs.",
+    "I’m a software engineer (with strong background in ML models) passionate about turning complex challenges into smart, data-driven products. With a strong foundation in Next.js, React, and JavaScript, I build scalable, intuitive applications that combine clean design with robust performance. My work integrates AI tools like OpenAI and Langchain, enabling systems to think, adapt, and assist—bridging the gap between technology and real-world problem-solving.",
+    "Currently, I’m also working part-time as an Operations Analyst, where I apply my analytical mindset to optimize manufacturing workflows. By using tools like Amper and Power BI, I translate raw production data into actionable insights that reduce delays, cut costs, and improve efficiency. This experience sharpens my ability to see both the business and engineering sides of problems—and create tech that truly delivers.",
   ],
 };
 
@@ -177,16 +177,16 @@ export const ABOUT_CONTENT = {
 
 export const EXPERIENCES = [
   {
-    yearRange: "Oct, 2024 - Now",
-    title: "Machine Learning Engineer, Fellowship.AI",
-    location: "Remote",
+    yearRange: "March, 2025 - Now",
+    title: "Operational Analyst Intern, Insituform Technologies LLC",
+    location: "On-site",
     description: [
-      "Develop web agents using LangChain, SeeAct, and WebLlama to autonomously browse financial websites and extract real-time interest rates.",
-      "Customize agents for dynamic data retrieval, error handling, and task optimization to ensure accuracy and adaptability.",
-      "Provide daily updates, participate in meetings, and collaborate with fellows and mentors to align on goals and resolve challenges.",
+      "Improved operational efficiency by average 20% by leveraging Amper data to identify root causes of job delays—such as onboarding bottlenecks and equipment downtime—leading to faster issue resolution.",
+      "Reduced material waste and purchasing costs by 15% by analyzing inventory trends and recommending reuse strategies for surplus materials like glass and fiber.",
+      "Enhanced strategic decision-making by building Power BI dashboards that visualized KPIs across departments, enabling leadership to act on production and performance insights in real time.",
     ],
   },
-  
+
   {
     yearRange: "Aug, 2024 — Now",
     title: "Teaching Assistant - CSCI 111/211/256, Ole Miss",
@@ -197,16 +197,29 @@ export const EXPERIENCES = [
       "Proctored exams and contributed to the development of grading rubrics for assignments.",
     ],
   },
+
   {
-    yearRange: "June, 2024 - Aug, 2024",
-    title: "Software Engineering Fellow, Headstarter AI",
+    yearRange: "Oct, 2024 - Dec, 2024",
+    title: "Machine Learning Engineer, Fellowship.AI",
     location: "Remote",
     description: [
-      "Worked on a team, integrating OpenAI and Firebase to build AI-driven web applications.",
-      "Collaborated with back-end engineers to ensure seamless AI integration into the web platform.",
-      "Optimized AI functionality to improve responsiveness and scalability across the application.",
+      "Develop web agents using LangChain, SeeAct, and WebLlama to autonomously browse financial websites and extract real-time interest rates.",
+      "Customize agents for dynamic data retrieval, error handling, and task optimization to ensure accuracy and adaptability.",
+      "Provide daily updates, participate in meetings, and collaborate with fellows and mentors to align on goals and resolve challenges.",
     ],
   },
+  
+  
+  // {
+  //   yearRange: "June, 2024 - Aug, 2024",
+  //   title: "Software Engineering Fellow, Headstarter AI",
+  //   location: "Remote",
+  //   description: [
+  //     "Worked on a team, integrating OpenAI and Firebase to build AI-driven web applications.",
+  //     "Collaborated with back-end engineers to ensure seamless AI integration into the web platform.",
+  //     "Optimized AI functionality to improve responsiveness and scalability across the application.",
+  //   ],
+  // },
 ];
 
 export const TESTIMONIALS = [
