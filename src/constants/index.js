@@ -27,7 +27,7 @@ export const HERO_CONTENT = {
   introduction:
     "I’m Visho, Full-stack alchemist turning code & data into products.",
   description:
-    "Now building IIoT pipelines and dynamic Value Stream Maps at Insituform, data-engineering raw production telemetry into faster lead times and smarter decisions.",
+    "Now engineering IIoT pipelines and dynamic Value Stream Maps at Insituform, transforming raw production telemetry into faster lead times and smarter decisions.",
   resumeLinkText: "Download Resume",
   resumeLink: "/SWEresume2.pdf",
 };
