@@ -42,8 +42,8 @@ export const PROJECTS = [
   },
 
   {
-    name: "Dynamic Value Stream Mapping (Manufacturing)",
-    description: "Built a live, IIoT-driven VSM for Insituform: ingesting Amper machine data and operator inputs via Snowflake Tasks/Streams, visualizing current and future states in Power BI and Tableau, and flagging waste in real time. Result: 25 % shorter lead times, 20 % higher throughput, and data-backed Lean/Six Sigma decisions.",
+    name: "Dynamic Value Stream Mapping (Manufacturing) Platform",
+    description: "A real-time Value Stream Mapping platform powered by Amper machine data, operator inputs, and Snowflake Streams, visualized through Power BI and Tableau to surface bottlenecks and drive Lean/Six Sigma decisions in manufacturing.",
     image: vsm-ss, 
     // link: "https://github.com/fiston-user/contract-analysis",
     // liveDemo: "https://www.simplemetrics.app", // Live demo link
