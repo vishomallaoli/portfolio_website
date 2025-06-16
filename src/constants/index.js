@@ -178,8 +178,8 @@ export const ABOUT_CONTENT = {
 export const EXPERIENCES = [
   {
     yearRange: "March, 2025 - Now",
-    title: "Operational Analyst Intern, Insituform Technologies LLC",
-    location: "On-site",
+    title: "Data Engineering Intern - CI Manufacturing Analytics, Insituform Technologies LLC",
+    location: "Batesville, MS",
     description: [
       "Engineered a dynamic Value Stream Mapping (VSM) system using Amper API and SQL, aligned with Lean Manufacturing and Industry 4.0 principles, reducing lead time by 25% through real-time integration of machine and operator data.",
       "Simulated future-state workflows in Tableau to evaluate continuous improvement scenarios, supporting Six Sigma decision-making before implementing process changes on the shop floor.",
