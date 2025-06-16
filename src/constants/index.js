@@ -1,6 +1,6 @@
 import projects1 from "../assets/diadetect.jpeg";
 import projects2 from "../assets/project21.png";
-import projects3 from "../assets/ecoguard3.webp";
+import projects3 from "../assets/unnamed.png";
 import projects4 from "../assets/event-master.png";
 import projects5 from "../assets/ai-agent.webp";
 import projects6 from "../assets/biga.png";
