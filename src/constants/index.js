@@ -1,5 +1,5 @@
 import projects1 from "../assets/diadetect.jpeg";
-import projects2 from "../assets/contra.webp";
+import projects2 from "../assets/project21.png";
 import projects3 from "../assets/ecoguard3.webp";
 import projects4 from "../assets/event-master.png";
 import projects5 from "../assets/ai-agent.webp";
@@ -44,7 +44,7 @@ export const PROJECTS = [
   {
     name: "Dynamic Value Stream Mapping Platform (Internship)",
     description: "A real-time Value Stream Mapping platform powered by Amper machine data, operator inputs, and Snowflake Streams, visualized through Power BI and Tableau to surface bottlenecks and drive Lean/Six Sigma decisions in manufacturing.",
-    image: project21, 
+    image: projects2, 
     // link: "https://github.com/fiston-user/contract-analysis",
     // liveDemo: "https://www.simplemetrics.app", // Live demo link
   },
