@@ -86,7 +86,7 @@ export const ABOUT_CONTENT = {
     
     "Lately, my focus has shifted toward the factory floor. As a Data Engineering Intern at Insituform, I’m building real-time IIoT pipelines and dynamic Value Stream Maps using Amper data, Snowflake, Power BI, and Tableau. These tools help cut production delays, optimize workflows, and bring Industry 4.0 principles to life in manufacturing environments.",
 
-    "My work spans across products, machine learning, and process optimization—but the thread is the same: solve real problems with clean, impactful tech."
+    "My work spans across products, machine learning, and process optimization, but the thread is the same: solve real problems with first principles thinking and never settle."
   ],
 };
 
