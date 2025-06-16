@@ -69,6 +69,7 @@ export const PROJECTS = [
     description: "An AI-driven autonomous agent built to extract real-time financial data from websites, focusing on tasks like interest rate extraction using LangChain and WebLlama. Optimized for handling 50+ complex web scenarios.",
     image: projects5,
     link: "https://github.com/fellowship/web-agent"
+  },
 
   {
     name: "Binary Image Growing Algorithm",
