@@ -177,7 +177,7 @@ export const ABOUT_CONTENT = {
 
 export const EXPERIENCES = [
   {
-    yearRange: "March, 2025 - Now",
+    yearRange: "Mar, 2025 - Now",
     title: "Data Engineering Intern - CI Manufacturing Analytics, Insituform Technologies LLC",
     location: "Batesville, MS",
     description: [
@@ -189,7 +189,7 @@ export const EXPERIENCES = [
   },
 
   {
-    yearRange: "Aug, 2024 — Now",
+    yearRange: "Aug, 2024 — May, 2025",
     title: "Teaching Assistant - CSCI 111/211/256, Ole Miss",
     location: "Oxford, MS",
     description: [
