@@ -25,9 +25,9 @@ export const LINKS = [
 export const HERO_CONTENT = {
   greeting: "Hey there! 🖐️",
   introduction:
-    "I’m Visho, a Software Engineer (with Data Science emphasis), creating innovative and impactful software solutions.",
+    "I’m Visho, Full-stack alchemist turning code & data into products.",
   description:
-    "I’m currently working a Operational Analyst to optimize manufacturing workflows to bridge engineering with business solutions.",
+    "Now engineering IIoT pipelines and dynamic Value Stream Maps at Insituform, transforming raw production telemetry into faster lead times and smarter decisions.",
   resumeLinkText: "Download Resume",
   resumeLink: "/SWEresume2.pdf",
 };
