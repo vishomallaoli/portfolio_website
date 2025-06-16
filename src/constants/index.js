@@ -181,9 +181,10 @@ export const EXPERIENCES = [
     title: "Operational Analyst Intern, Insituform Technologies LLC",
     location: "On-site",
     description: [
-      "Improved operational efficiency by average 20% by leveraging Amper data to identify root causes of job delays—such as onboarding bottlenecks and equipment downtime—leading to faster issue resolution.",
-      "Reduced material waste and purchasing costs by 15% by analyzing inventory trends and recommending reuse strategies for surplus materials like glass and fiber.",
-      "Enhanced strategic decision-making by building Power BI dashboards that visualized KPIs across departments, enabling leadership to act on production and performance insights in real time.",
+      "Engineered a dynamic Value Stream Mapping (VSM) system using Amper API and SQL, aligned with Lean Manufacturing and Industry 4.0 principles, reducing lead time by 25% through real-time integration of machine and operator data.",
+      "Simulated future-state workflows in Tableau to evaluate continuous improvement scenarios, supporting Six Sigma decision-making before implementing process changes on the shop floor.",
+      "Built and maintained ELT pipelines using Snowflake Tasks and Streams to automate ingestion of IIoT and operational data into a centralized warehouse powering Power BI dashboards.",
+      "Improved efficiency by ~20% and reduced surplus material costs by 15% through automated KPI tracking and root cause analysis using DAX, Excel, and Power BI; maintained workflow integrity using Git and Azure DevOps.",
     ],
   },
 
