@@ -3,7 +3,7 @@ import projects2 from "../assets/project21.png";
 import projects3 from "../assets/ecoguard2.jpg";
 import projects4 from "../assets/event-master.png";
 import projects5 from "../assets/web-agent.jpg";
-import projects6 from "../assets/biga.png";
+import projects6 from "../assets/chessarm.jpg";
 
 import person1 from "../assets/earnest.JPG";
 import person2 from "../assets/ishan.JPG";
@@ -71,9 +71,16 @@ export const PROJECTS = [
     link: "https://github.com/fellowship/web-agent"
   },
 
-  {
-    name: "Binary Image Growing Algorithm (Algorithm Design Project)",
-    description: "A Java application for binary PGM image segmentation, utilizing an 8-connected neighborhood algorithm to detect and grow regions based on pixel intensity values.",
+  // {
+  //   name: "Binary Image Growing Algorithm (Algorithm Design Project)",
+  //   description: "A Java application for binary PGM image segmentation, utilizing an 8-connected neighborhood algorithm to detect and grow regions based on pixel intensity values.",
+  //   image: projects6,
+  //   link: "https://github.com/vishomallaoli/binary-image-growing-algorithm",
+  // },
+
+    {
+    name: "BigDaddy: Robotic Chess Arm (Senior Design Project)",
+    description: "An in-progress robotic arm capable of physically playing chess, integrating embedded motor control, chess engine logic, and real-time perception. Combines AI planning with hardware design to create an interactive, intelligent physical agent.",
     image: projects6,
     link: "https://github.com/vishomallaoli/binary-image-growing-algorithm",
   },
