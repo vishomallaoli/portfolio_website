@@ -44,7 +44,7 @@ export const PROJECTS = [
   {
     name: "Dynamic Value Stream Mapping Platform (Internship)",
     description: "A real-time Value Stream Mapping platform powered by Amper machine data, operator inputs, and Snowflake Streams, visualized through Power BI and Tableau to surface bottlenecks and drive Lean/Six Sigma decisions in manufacturing.",
-    image: projects2, 
+    image: project21, 
     // link: "https://github.com/fiston-user/contract-analysis",
     // liveDemo: "https://www.simplemetrics.app", // Live demo link
   },
