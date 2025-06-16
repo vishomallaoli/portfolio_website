@@ -34,7 +34,7 @@ export const HERO_CONTENT = {
 
 export const PROJECTS = [
   {
-    name: "DiaDetect",
+    name: "DiaDetect (Data Science Initiative)",
     description: "A ML-based classifier for predicting diabetes, designed to aid in early detection and healthcare decision-making.",
     image: projects1, // Replace with the appropriate image variable
     link: "https://github.com/vishomallaoli/dia-detect",
@@ -50,7 +50,7 @@ export const PROJECTS = [
   },
 
   {
-    name: "EcoGuard",
+    name: "EcoGuard (HackHarvard 2024)",
     description: "An AI-powered waste management platform that streamlines reporting and collection, promoting sustainability and targeting 50+ users with eco-friendly incentives.",
     image: projects3,
     link: "https://github.com/vishomallaoli/mol-iq-waste-mgmt",
@@ -65,14 +65,14 @@ export const PROJECTS = [
   },
 
   {
-    name: "LLM Web Agent",
+    name: "LLM Web Agent (Fellowship.AI Collaboration)",
     description: "An AI-driven autonomous agent built to extract real-time financial data from websites, focusing on tasks like interest rate extraction using LangChain and WebLlama. Optimized for handling 50+ complex web scenarios.",
     image: projects5,
     link: "https://github.com/fellowship/web-agent"
   },
 
   {
-    name: "Binary Image Growing Algorithm",
+    name: "Binary Image Growing Algorithm (Algorithm Design Project)",
     description: "A Java application for binary PGM image segmentation, utilizing an 8-connected neighborhood algorithm to detect and grow regions based on pixel intensity values.",
     image: projects6,
     link: "https://github.com/vishomallaoli/binary-image-growing-algorithm",
