@@ -82,43 +82,14 @@ export const PROJECTS = [
 
 export const ABOUT_CONTENT = {
   paragraphs: [
-    "I’m a software engineer (with strong background in ML models) passionate about turning complex challenges into smart, data-driven products. With a strong foundation in Next.js, React, and JavaScript, I build scalable, intuitive applications that combine clean design with robust performance. My work integrates AI tools like OpenAI and Langchain, enabling systems to think, adapt, and assist—bridging the gap between technology and real-world problem-solving.",
-    "Currently, I’m also working part-time as an Operations Analyst, where I apply my analytical mindset to optimize manufacturing workflows. By using tools like Amper and Power BI, I translate raw production data into actionable insights that reduce delays, cut costs, and improve efficiency. This experience sharpens my ability to see both the business and engineering sides of problems—and create tech that truly delivers.",
+    "I’m a software engineer with a deep interest in applied AI and data engineering—especially where the digital meets the physical world. I build full-stack applications using Next.js, React, and TypeScript, often integrating tools like OpenAI and LangChain to make products that don’t just function, but adapt and assist.",
+    
+    "Lately, my focus has shifted toward the factory floor. As a Data Engineering Intern at Insituform, I’m building real-time IIoT pipelines and dynamic Value Stream Maps using Amper data, Snowflake, Power BI, and Tableau. These tools help cut production delays, optimize workflows, and bring Industry 4.0 principles to life in manufacturing environments.",
+
+    "My work spans across products, machine learning, and process optimization—but the thread is the same: solve real problems with clean, impactful tech."
   ],
 };
 
-// export const EXPERIENCES = [
-//   {
-//     yearRange: "2023 — Now",
-//     title: "Senior Frontend Engineer at TechCorp",
-//     location: "Paris, France",
-//     description: [
-//       "Leading the development of scalable frontend architecture for enterprise-level applications.",
-//       "Collaborating with cross-functional teams to deliver high-quality, user-centric solutions.",
-//       "Driving innovation through continuous improvements in performance and UI/UX design.",
-//     ],
-//   },
-//   {
-//     yearRange: "2021 — 2023",
-//     title: "Frontend Engineer at Startup Inc.",
-//     location: "Remote",
-//     description: [
-//       "Built dynamic, responsive, and accessible web applications using React, Next.js, and Tailwind CSS.",
-//       "Spearheaded frontend optimization efforts, resulting in a 40% performance boost.",
-//       "Mentored junior developers and led internal frontend workshops.",
-//     ],
-//   },
-//   {
-//     yearRange: "2018 — 2021",
-//     title: "Frontend Developer at Creative Solutions",
-//     location: "London, UK",
-//     description: [
-//       "Developed and maintained user interfaces for high-traffic websites.",
-//       "Worked closely with designers to implement pixel-perfect designs.",
-//       "Optimized websites for SEO and performance, resulting in a 30% increase in traffic.",
-//     ],
-//   },
-// ];
 
 export const EXPERIENCES = [
   {
