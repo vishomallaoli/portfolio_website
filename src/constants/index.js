@@ -82,7 +82,8 @@ export const PROJECTS = [
     name: "BigDaddy: Robotic Chess Arm (Senior Design Project)",
     description: "An in-progress robotic arm capable of physically playing chess, integrating embedded motor control, chess engine logic, and real-time perception. Combines AI planning with hardware design to create an interactive, intelligent physical agent.",
     image: projects6,
-    link: "https://github.com/vishomallaoli/binary-image-growing-algorithm",
+    link: "https://ijcset.net/docs/Volumes/volume5issue5/ijcset2015050501.pdf"
+    liveDemo: "https://www.youtube.com/watch?v=PK3fxJRmWFE",
   },
 ];
 
