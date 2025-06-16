@@ -42,11 +42,11 @@ export const PROJECTS = [
   },
 
   {
-    name: "ContraAI",
-    description: "ContraAI is an AI-driven SaaS platform for real-time legal contract analysis. It enables users to upload contracts, get detailed insights, ask questions, and manage contracts with ease",
+    name: "Dynamic Value Stream Mapping (Manufacturing)",
+    description: "Built a live, IIoT-driven VSM for Insituform: ingesting Amper machine data and operator inputs via Snowflake Tasks/Streams, visualizing current and future states in Power BI and Tableau, and flagging waste in real time. Result: 25 % shorter lead times, 20 % higher throughput, and data-backed Lean/Six Sigma decisions.",
     image: projects2, 
-    link: "https://github.com/fiston-user/contract-analysis",
-    liveDemo: "https://www.simplemetrics.app", // Live demo link
+    // link: "https://github.com/fiston-user/contract-analysis",
+    // liveDemo: "https://www.simplemetrics.app", // Live demo link
   },
 
   {
