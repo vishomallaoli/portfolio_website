@@ -33,13 +33,6 @@ export const HERO_CONTENT = {
 };
 
 export const PROJECTS = [
-  // {
-  //   name: "Streamerzz",
-  //   description: "Live stream management tool for content creators",
-  //   image: projects1,
-  //   link: "https://github.com/your-github/streamerzz",
-  // },
-
   {
     name: "DiaDetect",
     description: "A ML-based classifier for predicting diabetes, designed to aid in early detection and healthcare decision-making.",
@@ -48,13 +41,6 @@ export const PROJECTS = [
     liveDemo: "https://render-dia-detect.onrender.com", // Live demo link
   },
 
-  // {
-  //   name: "NutriTrack",
-  //   description: "Track your meals and calories with smart AI suggestions",
-  //   image: projects2,
-  //   link: "https://github.com/your-github/nutritrack",
-  // },
-
   {
     name: "ContraAI",
     description: "ContraAI is an AI-driven SaaS platform for real-time legal contract analysis. It enables users to upload contracts, get detailed insights, ask questions, and manage contracts with ease",
@@ -62,21 +48,7 @@ export const PROJECTS = [
     link: "https://github.com/fiston-user/contract-analysis",
     liveDemo: "https://www.simplemetrics.app", // Live demo link
   },
-  // {
-  //   name: "HairRevive",
-  //   description: "A platform for hair regrowth solutions powered by science",
-  //   image: projects3,
-  //   link: "https://github.com/your-github/hairrevive",
-  // },
 
-
-  // {
-  //   name: "DevDeck",
-  //   description:
-  //     "Interactive dashboard for developers to track coding activity",
-  //   image: projects4,
-  //   link: "https://github.com/your-github/devdeck",
-  // },
   {
     name: "EcoGuard",
     description: "An AI-powered waste management platform that streamlines reporting and collection, promoting sustainability and targeting 50+ users with eco-friendly incentives.",
@@ -91,35 +63,13 @@ export const PROJECTS = [
     image: projects4, 
     link: "https://github.com/vishomallaoli/event-master"
   },
-  // {
-  //   name: "FitConnect",
-  //   description: "Fitness social network to connect athletes and trainers",
-  //   image: projects5,
-  //   link: "https://github.com/your-github/fitconnect",
-  // },
 
-  // {
-  //   name: "GitHub Bot",
-  //   description: "An automated bot that interacts with GitHub repositories, performing tasks like issue management, pull request monitoring, and notifications.",
-  //   image: projects5, 
-  //   link: "https://github.com/vishomallaoli/github-bot"
-  // },
   {
-    name: "LLMf Web Agent",
-    description: "(Ongoing) An AI-driven autonomous agent built to extract real-time financial data from websites, focusing on tasks like interest rate extraction using LangChain and WebLlama. Optimized for handling 50+ complex web scenarios.",
+    name: "LLM Web Agent",
+    description: "An AI-driven autonomous agent built to extract real-time financial data from websites, focusing on tasks like interest rate extraction using LangChain and WebLlama. Optimized for handling 50+ complex web scenarios.",
     image: projects5,
+    link: "https://github.com/fellowship/web-agent"
 
-
-    // will release soon
-    // link: "https://github.com/vishomallaoli/llm-web-agent",
-    // liveDemo: "https://llm-web-agent.vercel.app/",
-  },
-  // {
-  //   name: "WellNest",
-  //   description: "A wellness app for mental and physical health improvement",
-  //   image: projects6,
-  //   link: "https://github.com/your-github/wellnest",
-  // },
   {
     name: "Binary Image Growing Algorithm",
     description: "A Java application for binary PGM image segmentation, utilizing an 8-connected neighborhood algorithm to detect and grow regions based on pixel intensity values.",
