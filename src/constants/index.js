@@ -9,8 +9,8 @@ import person1 from "../assets/earnest.JPG";
 import person2 from "../assets/ishan.JPG";
 import person3 from "../assets/shrestha.jpeg";
 import person4 from "../assets/sandip.jpg";
-import person5 from "../assets/person5.webp";
-import person6 from "../assets/person6.webp";
+import person5 from "../assets/person5.JPG";
+import person6 from "../assets/person6.jpeg";
 
 
 
@@ -178,7 +178,7 @@ export const ABOUT_CONTENT = {
 export const EXPERIENCES = [
   {
     yearRange: "March, 2025 - Now",
-    title: "Operations Analyst Intern, Insituform Technologies LLC",
+    title: "Data Engineering Intern, Insituform Technologies LLC",
     location: "On-site",
     description: [
       "Built an interactive Value Stream Map (VSM) in Power BI and Excel across 8 production machines (Felt, Coating, Slitting, Staging, Sewing, Extrusion, Inspection, and Shipping) visualizing real-time KPIs such as Uptime (avg. 88%), Yield (avg. 94%), Headcount, Rate of Production, and Lean Time (avg. 3.2 hrs), enabling managers to spot bottlenecks instantly.",
@@ -190,7 +190,7 @@ export const EXPERIENCES = [
   },
 
   {
-    yearRange: "Aug, 2024 — Now",
+    yearRange: "Aug, 2024 — May, 2025",
     title: "Teaching Assistant, Ole Miss Department of Computer Science",
     location: "Oxford, MS",
     description: [
@@ -201,13 +201,22 @@ export const EXPERIENCES = [
   },
 
   {
-    yearRange: "Oct, 2024 - Dec, 2024",
+    yearRange: "Sept, 2024 - Dec, 2024",
     title: "Machine Learning Engineer, Fellowship.AI",
     location: "Remote",
     description: [
       "Collaborated with a team of 18 engineers to develop FastAPI services with PostgreSQL (Neon), enabling structured storage of 100+ real estate and finance listings per run.",
       "Pioneered a 6-layer control variable system that eliminated system crashes and improved data validation, ensuring 95% data integrity across pipelines.",
       "Benchmarked autonomous agents on 120+ actions, with Gemini Browser-Use Agent achieving 87.5% overall accuracy (F1: 90% scroll, 90.1% return values) compared to Perplexity Sonar’s strong factual QA.",
+    ],
+  },
+
+  {
+    yearRange: "May, 2024 - July, 2024",
+    title: "Summer Coding Intern, Delta Health Alliance",
+    location: "Stoneville, MS",
+    description: [
+      "Taught AI fundamentals through projects like rock-paper-scissors prediction to 30 students at Camp 2.0, increasing retention by 15%.",
     ],
   },
   
@@ -232,6 +241,21 @@ export const TESTIMONIALS = [
   //     "Visho is one of the most talented developers I've had the pleasure of working with. His skills in frontend development are unparalleled, and his ability to solve complex problems with ease is truly impressive. His leadership and communication make him a standout developer in any team.",
   //   image: person1,
   // },
+  {
+    name: "Susan Subedi",
+    title: "Senior Software Engineer, Chime",
+    feedback:
+      "In early 2025, Visho had no background in automotive repair, yet within six months he was confidently fixing brake pads and CV axles, all while working full-time as an intern. That ability to quickly master new domains without compromising his professional output shows the discipline, adaptability, and follow-through that make him invaluable to any team.",
+    image: person5,
+  },  
+
+  {
+    name: "Ankit Shrestha",
+    title: "Assistant Professor, Ole Miss Computer Science",
+    feedback:
+      "Visho approached me with his senior project focused on designing a neural bus to minimize information loss between specialized AI models. I have been impressed by his ability to both zoom in on highly technical details and zoom out to evaluate broader system design considerations. As his current research sponsor, I can attest to his intellectual curiosity, focus, and determination. I have high confidence in his ability to see this project through and contribute meaningful advancements in AI research.",
+    image: person6,
+  },
   {
     name: "Earnest James",
     title: "DevOps Engineer, CSpire",
@@ -260,21 +284,7 @@ export const TESTIMONIALS = [
       "Visho served as the MC for Nepali Nights in 2023, where he showcased exceptional leadership, communication, and stage management skills. His humor and charisma kept an audience of over 100 people entertained throughout the event. Whatever project he takes on, Visho always proves to be a people’s person, connecting effortlessly with those around him.",
     image: person4,
   },
-  {
-    name: "Susan Subedi",
-    title: "Senior Software Engineer, Chime",
-    feedback:
-      "In early 2025, Visho had no background in automotive repair, yet within six months he was confidently fixing brake pads and CV axles, all while working full-time as an intern. That ability to quickly master new domains without compromising his professional output shows the discipline, adaptability, and follow-through that make him invaluable to any team.",
-    image: person5,
-  },  
-
-  {
-    name: "Ankit Shrestha",
-    title: "Assistant Professor, Ole Miss Computer Science",
-    feedback:
-      "Visho approached me with his senior project focused on designing a neural bus to minimize information loss between specialized AI models. I have been impressed by his ability to both zoom in on highly technical details and zoom out to evaluate broader system design considerations. As his current research sponsor, I can attest to his intellectual curiosity, focus, and determination. I have high confidence in his ability to see this project through and contribute meaningful advancements in AI research.",
-    image: person6,
-  },
+  
 ];
 
 export const CONTACT_CONTENT = {
