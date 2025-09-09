@@ -181,21 +181,22 @@ export const EXPERIENCES = [
     title: "Operations Analyst Intern, Insituform Technologies LLC",
     location: "On-site",
     description: [
-      "Built an interactive Value Stream Map (VSM) in Power BI and Excel covering all 8 production machines—Felt, Coating, Slitting, Staging, Sewing, Extersion, Inspection, and Shipping—visualizing real-time KPIs such as Uptime (avg. 88%), Yield (avg. 94%), Headcount, Rate of Production, and Lean Time (avg. 3.2 hours), enabling plant managers to identify bottlenecks at a glance.",
-      "Automated discrepancy analysis between Amper machine data and internal logs, uncovering a 17% gap in reported downtime and identifying micro-stoppages, onboarding inefficiencies, and idle staging time as key contributors—resulting in improved visibility and a 12% increase in true utilization reporting accuracy.",
-      "Modeled and simulated One-Piece Flow (OPF) improvements by analyzing headcount (avg. 3 per station), WIP levels (avg. 25 units/station), and throughput (avg. 8 units/hr), revealing a 22% cycle time reduction opportunity.",
-      "Developed cross-departmental KPI dashboards with live summaries by process stage, shift, and overall plant performance—empowering leadership with granular insights on efficiency, yield loss, and production trends.",
+      "Built an interactive Value Stream Map (VSM) in Power BI and Excel across 8 production machines (Felt, Coating, Slitting, Staging, Sewing, Extrusion, Inspection, and Shipping) visualizing real-time KPIs such as Uptime (avg. 88%), Yield (avg. 94%), Headcount, Rate of Production, and Lean Time (avg. 3.2 hrs), enabling managers to spot bottlenecks instantly.",
+      "Automated discrepancy analysis between Amper machine data and internal logs, exposing a 17% downtime reporting gap and uncovering causes such as micro-stoppages, onboarding inefficiencies, and idle staging—improving visibility and boosting utilization reporting accuracy by 12%.",
+      "Modeled One-Piece Flow (OPF) improvements by analyzing headcount (avg. 3/station), WIP levels (avg. 25 units/station), and throughput (avg. 8 units/hr), revealing a 22% cycle time reduction opportunity.",
+      "Designed a digital manufacturing framework migrating paper logs to Power Apps, Dataverse, and SharePoint, with a future path for SQL Server integration.",
+      "Deployed an open-source GPT-4All RAG pipeline to automate data entry, reducing manual errors and improving productivity by 300%."
     ],
   },
 
   {
     yearRange: "Aug, 2024 — Now",
-    title: "Teaching Assistant - CSCI 111/211/256, Ole Miss",
+    title: "Teaching Assistant, Ole Miss Department of Computer Science",
     location: "Oxford, MS",
     description: [
       "Led labs for Python & Java, focusing on algorithm optimization and data structures.",
-      "Collaborated with professors and students to ensure academic success.",
-      "Proctored exams and contributed to the development of grading rubrics for assignments.",
+      "Hosting 15 weekly office hours and lab assistance for over 200 students enrolled in CSCI 111/211/256.",
+      "Proctored exams and contributed in development of grading rubrics for assignments.",
     ],
   },
 
@@ -204,9 +205,9 @@ export const EXPERIENCES = [
     title: "Machine Learning Engineer, Fellowship.AI",
     location: "Remote",
     description: [
-      "Develop web agents using LangChain, SeeAct, and WebLlama to autonomously browse financial websites and extract real-time interest rates.",
-      "Customize agents for dynamic data retrieval, error handling, and task optimization to ensure accuracy and adaptability.",
-      "Provide daily updates, participate in meetings, and collaborate with fellows and mentors to align on goals and resolve challenges.",
+      "Collaborated with a team of 18 engineers to develop FastAPI services with PostgreSQL (Neon), enabling structured storage of 100+ real estate and finance listings per run.",
+      "Pioneered a 6-layer control variable system that eliminated system crashes and improved data validation, ensuring 95% data integrity across pipelines.",
+      "Benchmarked autonomous agents on 120+ actions, with Gemini Browser-Use Agent achieving 87.5% overall accuracy (F1: 90% scroll, 90.1% return values) compared to Perplexity Sonar’s strong factual QA.",
     ],
   },
   
@@ -260,17 +261,18 @@ export const TESTIMONIALS = [
     image: person4,
   },
   {
-    name: "Laura Martinez",
-    title: "Software Engineer, Shopify",
+    name: "Susan Subedi",
+    title: "Senior Software Engineer, Chime",
     feedback:
-      "Visho brought a level of expertise and professionalism to our team that was greatly appreciated. His focus on scalability and clean code ensured that our platform could handle large traffic loads without compromising performance. His work ethic and collaboration skills are impeccable.",
+      "In early 2025, Visho had no background in automotive repair, yet within six months he was confidently fixing brake pads and CV axles, all while working full-time as an intern. That ability to quickly master new domains without compromising his professional output shows the discipline, adaptability, and follow-through that make him invaluable to any team.",
     image: person5,
-  },
+  },  
+
   {
-    name: "Chris Brown",
-    title: "Software Engineer, Stripe",
+    name: "Ankit Shrestha",
+    title: "Assistant Professor, Ole Miss Computer Science",
     feedback:
-      "Visho combines technical proficiency with excellent leadership skills. He was a key part of our success, helping us build a robust and scalable product. His attention to detail and ability to manage teams made him an invaluable part of the company.",
+      "Visho approached me with his senior project focused on designing a neural bus to minimize information loss between specialized AI models. I have been impressed by his ability to both zoom in on highly technical details and zoom out to evaluate broader system design considerations. As his current research sponsor, I can attest to his intellectual curiosity, focus, and determination. I have high confidence in his ability to see this project through and contribute meaningful advancements in AI research.",
     image: person6,
   },
 ];
