@@ -178,12 +178,13 @@ export const ABOUT_CONTENT = {
 export const EXPERIENCES = [
   {
     yearRange: "March, 2025 - Now",
-    title: "Operational Analyst Intern, Insituform Technologies LLC",
+    title: "Operations Analyst Intern, Insituform Technologies LLC",
     location: "On-site",
     description: [
-      "Improved operational efficiency by average 20% by leveraging Amper data to identify root causes of job delays—such as onboarding bottlenecks and equipment downtime—leading to faster issue resolution.",
-      "Reduced material waste and purchasing costs by 15% by analyzing inventory trends and recommending reuse strategies for surplus materials like glass and fiber.",
-      "Enhanced strategic decision-making by building Power BI dashboards that visualized KPIs across departments, enabling leadership to act on production and performance insights in real time.",
+      "Built an interactive Value Stream Map (VSM) in Power BI and Excel covering all 8 production machines—Felt, Coating, Slitting, Staging, Sewing, Extersion, Inspection, and Shipping—visualizing real-time KPIs such as Uptime (avg. 88%), Yield (avg. 94%), Headcount, Rate of Production, and Lean Time (avg. 3.2 hours), enabling plant managers to identify bottlenecks at a glance.",
+      "Automated discrepancy analysis between Amper machine data and internal logs, uncovering a 17% gap in reported downtime and identifying micro-stoppages, onboarding inefficiencies, and idle staging time as key contributors—resulting in improved visibility and a 12% increase in true utilization reporting accuracy.",
+      "Modeled and simulated One-Piece Flow (OPF) improvements by analyzing headcount (avg. 3 per station), WIP levels (avg. 25 units/station), and throughput (avg. 8 units/hr), revealing a 22% cycle time reduction opportunity.",
+      "Developed cross-departmental KPI dashboards with live summaries by process stage, shift, and overall plant performance—empowering leadership with granular insights on efficiency, yield loss, and production trends.",
     ],
   },
 
