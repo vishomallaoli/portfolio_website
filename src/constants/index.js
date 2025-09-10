@@ -1,8 +1,8 @@
 import projects1 from "../assets/diadetect.jpeg";
-import projects2 from "../assets/contra.webp";
+import projects2 from "../assets/test.jpg";
 import projects3 from "../assets/ecoguard3.webp";
-import projects4 from "../assets/event-master.png";
-import projects5 from "../assets/ai-agent.webp";
+import projects4 from "../assets/vsm.jpeg";
+import projects5 from "../assets/project5.jpg";
 import projects6 from "../assets/biga.png";
 
 import person1 from "../assets/earnest.JPG";
@@ -29,7 +29,7 @@ export const HERO_CONTENT = {
   description:
     "I’m currently working a Operational Analyst to optimize manufacturing workflows to bridge engineering with business solutions.",
   resumeLinkText: "Download Resume",
-  resumeLink: "/SWEresume2.pdf",
+  resumeLink: "/SWEresume3.pdf",
 };
 
 export const PROJECTS = [
@@ -56,11 +56,11 @@ export const PROJECTS = [
   // },
 
   {
-    name: "ContraAI",
-    description: "ContraAI is an AI-driven SaaS platform for real-time legal contract analysis. It enables users to upload contracts, get detailed insights, ask questions, and manage contracts with ease",
+    name: "Neural Bus Schema",
+    description: "A research prototype in Python/FastAPI using ResNet-50 for vision and a transformer-based language model, designed to route and preserve information across specialized AI systems.",
     image: projects2, 
-    link: "https://github.com/fiston-user/contract-analysis",
-    liveDemo: "https://www.simplemetrics.app", // Live demo link
+    link: "https://github.com/vishomallaoli/neural-bus-schema",
+    // liveDemo: "https://www.placeholder.app", // Live demo link
   },
   // {
   //   name: "HairRevive",
@@ -79,17 +79,18 @@ export const PROJECTS = [
   // },
   {
     name: "EcoGuard",
-    description: "An AI-powered waste management platform that streamlines reporting and collection, promoting sustainability and targeting 50+ users with eco-friendly incentives.",
+    description: "An full stack waste management platform that streamlines reporting and collection, promoting sustainability and, targeting 50 users.",
     image: projects3,
     link: "https://github.com/vishomallaoli/mol-iq-waste-mgmt",
     liveDemo: "https://mol-iq-waste-mgmt.vercel.app/",
   },
 
   {
-    name: "Eventmaster",
-    description: "A comprehensive event management tool that simplifies planning, attendee tracking, and scheduling, built to streamline event organization.",
-    image: projects4, 
-    link: "https://github.com/vishomallaoli/event-master"
+    name: "Dynamic Value Stream Map",
+    description: "Built an interactive Value Stream Map in Power BI using real-time machine data to visualize KPIs and identify bottlenecks across production lines.",
+    image: projects4, // Replace with the appropriate image variable
+    // link: "https://github.com/vishomallaoli/value-stream-mapping",
+    liveDemo: "https://www.linkedin.com/in/vishomallaoli/overlay/projects/2057726594/multiple-media-viewer/?profileId=ACoAADb-ezYB1EZehtBYWo-F0rABXX2Kwt_BlQo&treasuryMediaId=1750109481456",
   },
   // {
   //   name: "FitConnect",
@@ -105,13 +106,13 @@ export const PROJECTS = [
   //   link: "https://github.com/vishomallaoli/github-bot"
   // },
   {
-    name: "LLMf Web Agent",
-    description: "(Ongoing) An AI-driven autonomous agent built to extract real-time financial data from websites, focusing on tasks like interest rate extraction using LangChain and WebLlama. Optimized for handling 50+ complex web scenarios.",
+    name: "Autonomous Finance Web Agent",
+    description: "A platform for structured real estate and finance data pipelines with autonomous agent benchmarking.",
     image: projects5,
 
 
     // will release soon
-    // link: "https://github.com/vishomallaoli/llm-web-agent",
+    link: "https://github.com/fellowship/web-agent",
     // liveDemo: "https://llm-web-agent.vercel.app/",
   },
   // {
@@ -178,7 +179,7 @@ export const ABOUT_CONTENT = {
 export const EXPERIENCES = [
   {
     yearRange: "March, 2025 - Now",
-    title: "Data Engineering Intern, Insituform Technologies LLC",
+    title: "Operations Analyst, Insituform Technologies LLC",
     location: "On-site",
     description: [
       "Built an interactive Value Stream Map (VSM) in Power BI and Excel across 8 production machines (Felt, Coating, Slitting, Staging, Sewing, Extrusion, Inspection, and Shipping) visualizing real-time KPIs such as Uptime (avg. 88%), Yield (avg. 94%), Headcount, Rate of Production, and Lean Time (avg. 3.2 hrs), enabling managers to spot bottlenecks instantly.",
