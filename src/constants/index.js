@@ -79,7 +79,7 @@ export const PROJECTS = [
   // },
   {
     name: "EcoGuard",
-    description: "An full stack waste management platform that streamlines reporting and collection, promoting sustainability and, targeting 50 users.",
+    description: "An full stack waste management platform that streamlines reporting and collection, promoting sustainability and, targeting 50+ users.",
     image: projects3,
     link: "https://github.com/vishomallaoli/mol-iq-waste-mgmt",
     liveDemo: "https://mol-iq-waste-mgmt.vercel.app/",
@@ -178,20 +178,28 @@ export const ABOUT_CONTENT = {
 
 export const EXPERIENCES = [
   {
-    yearRange: "March, 2025 - Now",
+    yearRange: "Sep 2025 - Present",
+    title: "Foundational Engineer, Stealth Defense Startup",
+    location: "Remote",
+    description: [
+      // "",
+    ],
+  },
+
+  {
+    yearRange: "Mar 2025 - Present",
     title: "Operations Analyst, Insituform Technologies LLC",
     location: "On-site",
     description: [
-      "Built an interactive Value Stream Map (VSM) in Power BI and Excel across 8 production machines (Felt, Coating, Slitting, Staging, Sewing, Extrusion, Inspection, and Shipping) visualizing real-time KPIs such as Uptime (avg. 88%), Yield (avg. 94%), Headcount, Rate of Production, and Lean Time (avg. 3.2 hrs), enabling managers to spot bottlenecks instantly.",
-      "Automated discrepancy analysis between Amper machine data and internal logs, exposing a 17% downtime reporting gap and uncovering causes such as micro-stoppages, onboarding inefficiencies, and idle staging—improving visibility and boosting utilization reporting accuracy by 12%.",
-      "Modeled One-Piece Flow (OPF) improvements by analyzing headcount (avg. 3/station), WIP levels (avg. 25 units/station), and throughput (avg. 8 units/hr), revealing a 22% cycle time reduction opportunity.",
+      "Built a dynamic Value Stream Map in Power BI using Amper REST API with Python/SQL pipelines, enabling real-time tracking of throughput, cycle time, and headcount.",
+      "Modeled One-Piece Flow (OPF) improvements by analyzing headcount (3/station), WIP levels (25 units/station), and throughput (8 units/hr), revealing a 22% cycle time reduction opportunity.",
       "Designed a digital manufacturing framework migrating paper logs to Power Apps, Dataverse, and SharePoint, with a future path for SQL Server integration.",
       "Deployed an open-source GPT-4All RAG pipeline to automate data entry, reducing manual errors and improving productivity by 300%."
     ],
   },
 
   {
-    yearRange: "Aug, 2024 — May, 2025",
+    yearRange: "Aug 2024 — May 2025",
     title: "Teaching Assistant, Ole Miss Department of Computer Science",
     location: "Oxford, MS",
     description: [
@@ -202,7 +210,7 @@ export const EXPERIENCES = [
   },
 
   {
-    yearRange: "Sept, 2024 - Dec, 2024",
+    yearRange: "Sep 2024 - Dec 2024",
     title: "Machine Learning Engineer, Fellowship.AI",
     location: "Remote",
     description: [
@@ -213,7 +221,7 @@ export const EXPERIENCES = [
   },
 
   {
-    yearRange: "May, 2024 - July, 2024",
+    yearRange: "May 2024 - July 2024",
     title: "Summer Coding Intern, Delta Health Alliance",
     location: "Stoneville, MS",
     description: [
@@ -252,9 +260,9 @@ export const TESTIMONIALS = [
 
   {
     name: "Ankit Shrestha",
-    title: "Assistant Professor, Ole Miss Computer Science",
+    title: "Assistant Professor, Ole Miss CompSci",
     feedback:
-      "Visho approached me with his senior project focused on designing a neural bus to minimize information loss between specialized AI models. I have been impressed by his ability to both zoom in on highly technical details and zoom out to evaluate broader system design considerations. As his current research sponsor, I can attest to his intellectual curiosity, focus, and determination. I have high confidence in his ability to see this project through and contribute meaningful advancements in AI research.",
+      "In Fall 2025, Visho approached me with his senior project focused on designing a neural bus to minimize information loss between specialized AI models. I have been impressed by his ability to both zoom in on highly technical details and zoom out to evaluate broader system design considerations. As his current research sponsor, I can attest to his intellectual curiosity, focus, and determination.",
     image: person6,
   },
   {
